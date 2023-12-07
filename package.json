@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://zarutskaalina.github.io/drinkify-group-6",
+  "homepage": "https://maershaa.github.io/drinkify-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /drinkify-group-6/"
+    "build": "parcel build src/*.html --public-url /drinkify-team-project/"
   },
   "repository": {
     "type": "git",
